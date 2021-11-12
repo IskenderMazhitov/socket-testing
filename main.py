@@ -1,5 +1,4 @@
 import socket
-
 # HTTP: using tcp, ip
 # ip-address: 5000 - socket
 # 
